@@ -1,0 +1,5 @@
+14.0 Foot to 168.0 Inch
+14.0 Inch to 1.1666666666666667 Foot
+28.0 Inch to 2.3333333333333335 Foot
+28.0 Foot to 336.0 Inch
+14.0 Meter to 15.309055118110235 Yard
